@@ -1,0 +1,5 @@
+this is the study list 
+1. python
+2. github
+3. machine learning
+4. deep learning
